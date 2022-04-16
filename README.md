@@ -2,7 +2,7 @@
 
 - 👩‍💻 I'm currently working with Ruby on Rails, PostgreSQL and Bootstrap
 
-- 🧠 I'm currently learning Ruby on Rails and Spring Boot
+- 🧠 I'm currently learning Ruby on Rails
 
 <div>
   <a href="https://www.linkedin.com/in/karine-vieira-01886818a/" target="_blank">
