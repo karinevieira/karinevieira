@@ -1,6 +1,6 @@
 ### Hi! I'm Karine Vieira 👋
 
-- 👩‍💻 I'm currently working with Ruby on Rails, PostgreSQL and Bootstrap
+- 👩‍💻 I'm currently working with Ruby on Rails and PostgreSQL
 
 - 🧠 I'm currently learning Ruby on Rails
 
