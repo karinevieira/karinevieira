@@ -2,7 +2,7 @@
 
 - 👩‍💻 I'm currently working with Ruby on Rails and PostgreSQL
 
-- 🧠 I'm currently learning Ruby on Rails
+- 🧠 I'm currently learning about View Components, Interactors, Hotwire and Stimulus
 
 <div>
   <a href="https://www.linkedin.com/in/karine-vieira-01886818a/" target="_blank">
